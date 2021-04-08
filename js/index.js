@@ -98,8 +98,8 @@ class ParkMap {
       .attr("class", "images")
       .attr("x", this.x)
       .attr("y", this.y)
-      .attr("width", 35)
-      .attr("height", 35)
+      .attr("width", 50)
+      .attr("height", 50)
       .attr("href", (d) => `./images/${d.Sheet}.png`);
 
     const update = () => Dots.attr("x", this.x).attr("y", this.y);
