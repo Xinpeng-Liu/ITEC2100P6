@@ -1,8 +1,8 @@
-//获取数据
+
 // https://observablehq.com/@sfu-iat355/intro-to-leaflet-d3-interactivity
 class ParkMap {
   constructor() {
-    this.initRadiosData(); //编辑数据筛选器里的信息,并与左侧数据联动
+    this.initRadiosData(); 
     this.initMap();
     this.initInfo();
     this.addEvent();
@@ -23,14 +23,14 @@ class ParkMap {
     //   .html("Refresh");
   }
   async initMap() {
-    //获取数据
+   
     await this.getGeoJson();
-    //设置宽高
+  
     let width = d3.select("#map").node().offsetWidth;
     let height = d3.select("#map").node().offsetHeight;
     d3.select("#map").attr("width", width).attr("height", height);
 
-    //初始化地图
+  
     this.map = L.map("map").setView(
       [45.38762640962469, -75.69567687726531],
       13
@@ -59,7 +59,7 @@ class ParkMap {
     let ottawa = await d3.json("./data/ottawa.geojson.json");
     let park = await d3.csv("./data/data.csv");
 
-    //计算每个点距离学校的距离
+  
 
     park.forEach((d) => {
       d.distance = calcDistance(
@@ -137,10 +137,10 @@ class ParkMap {
       .attr("class", "details")
       .style("display", "none");
 
-    //TODO这里根据不同的运动属性-显示不同的信息,if判断,分开写
+    
     let sheet = details.datum().Sheet;
     let tempdiv;
-    //如果是Tennis
+
     if (sheet === "Tennis") {
       //surfase - color
       details
@@ -222,7 +222,7 @@ class ParkMap {
       .attr("class", "address");
   }
   addEvent() {
-    //显示advanceFilter
+    
     d3.select(".uprightFilter").on("click", () => {
       let status = d3.select(".advanceFilter").style("display");
       d3.select(".advanceFilter")
@@ -231,46 +231,46 @@ class ParkMap {
         .style("left", "200px");
     });
 
-    //点击图片进行筛选
+   
     let images = ["Tennis", "Sledding", "Skateboard", "Swimming", "Rinks"];
     images.forEach((cate) => {
       d3.select(`.${cate}`).on("click", (e) => {
-        //获取颜色
+       
         let color = d3.select(`.${cate}`).style("background-color");
-        //第二次点击恢复颜色
+        
         d3.selectAll(`.title img`).style("background-color", null);
         d3.select(e.target).style("background-color", color);
 
         if (color === "rgba(0, 0, 0, 0)") {
-          //选择图片变色
+          
           d3.select(`.${cate}`).style("background-color", "#ff00ff");
-          //切换数据
+        
           this.infoData = this.park.filter((d) => d.Sheet === cate);
-          //重画地图
+     
           this.drawMap(this.infoData);
-          //重新渲染tOP6
+          
           this.addLeftLabels(this.infoData);
         } else {
           d3.select(`.${cate}`).style("background-color", "rgba(0, 0, 0, 0)");
-          //重画地图
+          
           this.infoData = this.park;
           this.drawMap(this.infoData);
-          //重新渲染tOP6
+        
           this.addLeftLabels(this.infoData);
         }
       });
     });
 
-    //点击按钮刷新数据
+    
     this.refreshButton.on("click", () => {
-      //TODO 再添加5条数据
+    
       this.showInfosNumber += 6;
       this.addLeftLabels();
     });
   }
 
   topLocationsEvent() {
-    //显示Top的详细地点
+
     d3.selectAll(".trangle").on("click", (e, d) => {
       let div = d3.select(e.target).select(function () {
         return this.nextSibling;
@@ -281,7 +281,7 @@ class ParkMap {
     });
   }
   addAdvanceFilter() {
-    //添加更多筛选的modal
+    
     let advanceFilter = d3
       .select("#viz")
       .append("section")
@@ -292,11 +292,11 @@ class ParkMap {
       .append("div")
       .attr("class", "advanceFilterContent");
 
-    //添加2个div作为左右布局
+    
     this.advanceDetails = advanceFilter.append("div").attr("class", "left");
     this.advanceIcons = advanceFilter.append("div").attr("class", "right");
 
-    //获取运动类别
+   
     let categories = d3.groups(this.park, (d) => d.Sheet);
     categories = categories.filter((d) => d[0] !== "university");
     this.addIcons(categories);
@@ -304,8 +304,7 @@ class ParkMap {
     this.updateAdvanceFilters(this.radios[0]);
   }
   updateAdvanceFilters(data) {
-    //循环添加筛选器radio
-    //根据数组的object的属性个数来添加radio group
+    
     let keys = Object.keys(data[1][0]);
     this.advanceDetails.selectAll("*").remove();
     let cate = this.advanceDetails
@@ -313,12 +312,12 @@ class ParkMap {
       .data(keys)
       .join("div")
       .attr("class", (d) => `radios ${d.replace(" ", "-")}`);
-    //添加每个类别的标签
+    
     cate
       .append("p")
       .attr("class", (d) => d)
       .html((d) => d);
-    //循环添加radio和label
+    
     let inputs = cate
       .selectAll("span")
       .data((d, i) => data[1].map((v) => v[d]).filter((d) => d))
@@ -346,9 +345,9 @@ class ParkMap {
           .property("checked", clicked ? false : true);
       });
 
-    //添加点击事件
+    
     this.confirmButton = this.advanceDetails.append("button").html("confirm");
-    //筛选数据
+
     let parentsClass;
     this.filters = [];
     this.confirmButton.on("click", () => {
@@ -361,8 +360,7 @@ class ParkMap {
             .split(" ")[1];
           this.filters.push([parentsClass.replace("-", " "), v.value]);
         });
-        //调用事件后,清空this.filters
-        //切换数据
+
         console.log(d3.groups(this.filters, (d) => d[0]));
         this.filters = d3.groups(this.filters, (d) => d[0]);
         this.filters = this.filters.map((d) => {
@@ -379,11 +377,11 @@ class ParkMap {
           );
         });
 
-        //如果没有数据则提示无数据
+       
         this.infoData.length ===0?alert("No available facilities!"):null;
-        //重画地图
+        
         this.drawMap(this.infoData);
-        //重新渲染tOP6
+    
         this.addLeftLabels(this.infoData);
         this.filters = [];
       });
@@ -399,17 +397,17 @@ class ParkMap {
     let image = category.append("img").attr("src", (d) => `./images/${d}.png`);
     category.append("span").html((d) => d);
 
-    //TODO添加事件
+    
     image.on("click", (e, d) => {
-      //筛选数据
+      
       let data = this.radios.find((v) => v[0] === d);
-      //
+      
       this.selectedFilterCate = d;
       this.updateAdvanceFilters(data);
 
-      //变更颜色
+     
       let color = d3.select(e.target).style("background-color");
-      //第二次点击恢复颜色
+     
       d3.selectAll(this.advanceIcons.selectAll("img")).style(
         "background-color",
         null
