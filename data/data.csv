@@ -7,12 +7,12 @@ ACCESSIBLE,Address,ASSESSMENT,Boards Type,CLUB,COURT_TYPE,Facility,FACILITY_TYPE
 ,1485 Duford Dr.,,Seasonal,,,Community Centre,,Yes,,Outdoor Rink,"1485 Duford Drive, Cumberland",Queenswood Heights Centennial Park and Community Centre,,Queenswood Heights Centennial Park and Community Centre,Rink with Puddle,Rinks,,Rinks,Yes,-75.50766155,45.47136006
 ,2401 Cleroux Cres.,,Seasonal,,,Fieldhouse,,Yes,,Norman Johnston School Outdoor Rink,"2417 Cleroux Crescent, Gloucester",John Kemp Park,,John Kemp Park (Norman Johnston School),Rink with Puddle,Rinks,,Rinks,No,-75.54930614,45.43753747
 ,1825 Trim Rd.,,Seasonal,,,Trailer,,Yes,,Outdoor Rink,"1825 Trim Road, Cumberland",Cardinal Creek Community Park,,Cardinal Creek Community Park,Rink with Puddle,Rinks,,Rinks,No,-75.45775741,45.47843736
-,655 Decoeur Dr.,,Permanent,,,None,,Yes,,Outdoor Rink,655 D¨¦coeur Drive,Don Boudria Park,,Don Boudria Park,Rink,Rinks,,Rinks,No,-75.49106903,45.44431881
+,655 Decoeur Dr.,,Permanent,,,None,,Yes,,Outdoor Rink,655 Decoeur Drive,Don Boudria Park,,Don Boudria Park,Rink,Rinks,,Rinks,No,-75.49106903,45.44431881
 ,424 Chapman Mills Dr.,,None,,,None,,No,,Outdoor Rink,"424 Chapman Mills Drive, Nepean",Water Dragon Park,,Water Dragon Park,Puddle,Rinks,,Rinks,No,-75.72267726,45.27158212
 ,955 Pleasant Park Rd.,,Seasonal,,,Fieldhouse,,Yes,,Outdoor Rink,"955 Pleasant Park Road, Ottawa",Weston Park,,Weston Park,Rink with Puddle,Rinks,,Rinks,Yes,-75.62455899,45.39576807
 ,2193 East Acres Rd.,,None,,,None,,Yes,,Outdoor Rink,"2193 East Acres Road, Gloucester",Acres Park,,Acres Park,Puddle,Rinks,,Rinks,No,-75.58850341,45.44732015
 ,1099 Grenon Ave.,,Seasonal,,,Fieldhouse,,Yes,,Outdoor Rink,"1099 Grenon Avenue, Ottawa",Ruth Wildgen Park,,Ruth Wildgen Park,Rink with Puddle,Rinks,,Rinks,Yes,-75.79605425,45.35101425
-,43 Ste-C¨¦cile St.,,Permanent,,,Fieldhouse,,Yes,,Outdoor Rink,"43 Ste. C¨¦cile Street, Vanier",Optimiste Park,,Optimiste Park,Rink,Rinks,,Rinks,Yes,-75.66984501,45.44243056
+,43 Ste-Cecile St.,,Permanent,,,Fieldhouse,,Yes,,Outdoor Rink,"43 Ste. C¨¦cile Street, Vanier",Optimiste Park,,Optimiste Park,Rink,Rinks,,Rinks,Yes,-75.66984501,45.44243056
 ,30 Wessex Rd.,,Seasonal,,,Community Centre,,Yes,,Outdoor Rink,"30 Wessex Road, Nepean",Moloughney Park,,Moloughney Park,Rink,Rinks,,Rinks,Yes,-75.75184916,45.2732762
 ,740 Eastvale Dr.,,Permanent,,,Change Hut,,Yes,,Outdoor Rink,"740 Eastvale Drive, Gloucester",Eastvale Park,,Eastvale Park,Rink with Puddle,Rinks,,Rinks,No,-75.59802297,45.4591231
 ,1520 Caldwell Ave.,,None,,,Trailer,,Yes,,Outdoor Rink,"1520 Caldwell Avenue, Ottawa",Bellevue Manor Park,,Bellevue Manor Park,Double Surface,Rinks,,Rinks,No,-75.73937358,45.37276846
@@ -70,7 +70,7 @@ ACCESSIBLE,Address,ASSESSMENT,Boards Type,CLUB,COURT_TYPE,Facility,FACILITY_TYPE
 ,1855 Simard Dr.,,Seasonal,,,None,,No,,Outdoor Rink,"1855 Simard Drive, Gloucester",St. Fran?ois Park,,St. Fran?ois Park,Rink with Puddle,Rinks,,Rinks,No,-75.51904023,45.4516426
 ,5572 Doctor Leach Dr.,,Seasonal,,,Arena,,No,,Outdoor Rink,"5572 Doctor Leach Drive, Rideau",Centennial Park,,Centennial Park,Rink with Puddle,Rinks,,Rinks,Yes,-75.68710562,45.22264505
 ,205 Romina St.,,None,,,None,,No,,Outdoor Rink,"205 Romina Street, Goulbourn",Proudmore Romina Park,,Proudmore Romina Park,Puddle,Rinks,,Rinks,No,-75.86339474,45.2728984
-,1691 Sunview Dr.,,None,,,None,,No,,Outdoor Rink,"1691 Sunview Drive, Gloucester",Marcel B¨¦riault Park,,Marcel B¨¦riault Park,Puddle,Rinks,,Rinks,No,-75.51397382,45.46356115
+,1691 Sunview Dr.,,None,,,None,,No,,Outdoor Rink,"1691 Sunview Drive, Gloucester",Marcel Beriault Park,,Marcel Beriault Park,Puddle,Rinks,,Rinks,No,-75.51397382,45.46356115
 ,797 Scala Ave.,,Permanent,,,Fieldhouse,,Yes,,Outdoor Rink,"797 Scala Avenue, Cumberland",Scala Park,,Scala Park,Rink with Puddle,Rinks,,Rinks,Yes,-75.46855651,45.4627962
 ,1250 Ledbury Ave.,,Seasonal,,,Fieldhouse,,Yes,,Outdoor Rink,"1250 Ledbury Avenue, Ottawa",Ledbury Park and Pavilion,,Ledbury Park,Rink with Puddle,Rinks,,Rinks,No,-75.65727237,45.36458709
 ,960 Silver St.,,Permanent,,,Community Centre,,Yes,,CBN RINK,"960 Silver Street, Ottawa",Alexander Park,,Alexander Park,Rink with Puddle,Rinks,,Rinks,Yes,-75.73143809,45.37998046
@@ -86,12 +86,12 @@ ACCESSIBLE,Address,ASSESSMENT,Boards Type,CLUB,COURT_TYPE,Facility,FACILITY_TYPE
 ,1115 Dunning Rd.,,Permanent,,,Arena,,Yes,,Outdoor Rink,"1115 Dunning Road, Cumberland",Wilfred Murray Park / R.J. Kennedy Community Hall and Arena,,WILFRED MURRAY PARK / R.J. KENNEDY COMMUNITY HALL AND ARENA,Rink,Rinks,,Rinks,Yes,-75.40254787,45.51502637
 ,100 Clifford Campbell St.,,Permanent,,,Community Centre,,Yes,,Outdoor Rink,"100 Clifford Campbell Street, West Carleton",Fitzroy Harbour Community Centre and Campbell Bicentennial Park,,Fitzroy Harbour Community Centre and Campbell Bicentennial Park,Rink,Rinks,,Rinks,Yes,-76.20588604,45.47039596
 ,2810 Findlay Creek Dr.,,Permanent,,,None,,Yes,,Outdoor Rink,"2810 Findlay Creek Drive / 4008 Kelly Farm Drive, Gloucester",Diamond Jubilee Park,,Diamond Jubilee Park,Rink,Rinks,,Rinks,No,-75.60989166,45.31472735
-,3585 Sarsfield Rd.,,Permanent,,,Community Centre,,Yes,,Outdoor Rink,"3585 Sarsfield Road, Cumberland",Yves Ch¨¦nier Park,,YVES CH¨¦NIER PARK,Rink,Rinks,,Rinks,Yes,-75.34256702,45.44052311
+,3585 Sarsfield Rd.,,Permanent,,,Community Centre,,Yes,,Outdoor Rink,"3585 Sarsfield Road, Cumberland",Yves Chenier Park,,YVES CHENIER PARK,Rink,Rinks,,Rinks,Yes,-75.34256702,45.44052311
 ,98 Meadowbreeze Dr.,,Seasonal,,,None,,Yes,,Chris Neil Rink,"98 Meadowbreeze Drive, Kanata",Meadowbreeze Park,,Meadowbreeze Park,Rink,Rinks,,Rinks,No,-75.85346849,45.27397013
 ,1245 Matheson Rd.,,None,,,None,,No,,Outdoor Rink,"1245 Matheson Road, Gloucester",Whiterock Park,,Whiterock Park,Puddle,Rinks,,Rinks,No,-75.62754709,45.43241055
 ,220 Stoneway Dr.,,Seasonal,,,Community Centre,,Yes,,Outdoor Rink,"220 Stoneway Drive, Nepean",Stonecrest Park,,Stonecrest Park,Rink with Puddle,Rinks,,Rinks,Yes,-75.71660749,45.28788535
 ,223 Iona St.,,None,,,Fieldhouse,,Yes,,Outdoor Rink,"223 Iona Street, Ottawa",Iona Park,,Iona Park,Double Surface,Rinks,,Rinks,Yes,-75.7421911,45.39201479
-,710 Mikinak Rd.,,Permanent,,,None,,Yes,,Outdoor Rink,710 Mikinak Road,Eug¨¨ne Martineau Park,,Eug¨¨ne Martineau Park,Rink with Puddle,Rinks,,Rinks,No,-75.63118417,45.45118758
+,710 Mikinak Rd.,,Permanent,,,None,,Yes,,Outdoor Rink,710 Mikinak Road,Eugene Martineau Park,,Eug¨¨ne Martineau Park,Rink with Puddle,Rinks,,Rinks,No,-75.63118417,45.45118758
 ,5058 North Bluff Dr.,,None,,,None,,No,,Outdoor Rink,"5058 North Bluff Drive, Gloucester",Nimiq Park,,Nimiq Park,Puddle,Rinks,,Rinks,No,-75.67413678,45.28318845
 ,49 Appleford St.,,Seasonal,,,Fieldhouse,,Yes,,Outdoor Rink,"49 Appleford Street, Gloucester",Fairfield Park,,Fairfield Park,Rink with Puddle,Rinks,,Rinks,No,-75.60631673,45.44149241
 ,2040 Jasmine Cres.,,Seasonal,,,Fieldhouse,,Yes,,Outdoor Rink,"2040 Jasmine Crescent, Gloucester",Jasmine Park,,Jasmine Park,Double Surface,Rinks,,Rinks,No,-75.59323098,45.44096317
@@ -179,7 +179,7 @@ ACCESSIBLE,Address,ASSESSMENT,Boards Type,CLUB,COURT_TYPE,Facility,FACILITY_TYPE
 ,300 Den Haag Dr.,,None,,,None,,Yes,,Outdoor Rink,"300 Den Haag Drive, Ottawa",Dr. John Hopps Park,,Dr. John Hopps Park,Double Surface,Rinks,,Rinks,No,-75.63241254,45.44059328
 ,2554 Kaladar Ave.,,Seasonal,,,Fieldhouse,,Yes,,Outdoor Rink,"2554 Kaladar Avenue, Ottawa",Kaladar Park,,Kaladar Park,Double Surface,Rinks,,Rinks,No,-75.67130947,45.37281935
 ,60 Knoxdale Rd.,,Permanent,,,Community Centre,,Yes,,Outdoor Rink,"60 Knoxdale Road, Nepean",Manordale Park,,Manordale Park,Rink with Puddle,Rinks,,Rinks,No,-75.76119641,45.32972664
-,1899 Du Clairvaux Rd.,,None,,,None,,No,,Outdoor Rink,"1899 Du Clairvaux Road, Gloucester",G¨¦rald Poulin Park,,G¨¦rald Poulin Park,Double Surface,Rinks,,Rinks,No,-75.53871716,45.44356164
+,1899 Du Clairvaux Rd.,,None,,,None,,No,,Outdoor Rink,"1899 Du Clairvaux Road, Gloucester",Gerald Poulin Park,,G¨¦rald Poulin Park,Double Surface,Rinks,,Rinks,No,-75.53871716,45.44356164
 ,691 Hartman Cres.,,None,,,Trailer,,Yes,,Outdoor Rink,"691 Hartman Crescent, Ottawa",Arnott Park,,Arnott Park,Double Surface,Rinks,,Rinks,No,-75.68045186,45.36181686
 ,76 Larkin Dr.,,Seasonal,,,Community Centre,,Yes,,Outdoor Rink,"76 Larkin Drive, Nepean",Larkin Park,,Larkin Park,Rink,Rinks,,Rinks,Yes,-75.76270476,45.2822333
 ,5831 Gladewoods Pl.,,Seasonal,,,None,,No,,Outdoor Rink,"5831 Gladewoods Place, Gloucester",Longleaf Park,,Longleaf Park,Rink,Rinks,,Rinks,No,-75.53325153,45.44045426
@@ -240,7 +240,7 @@ ACCESSIBLE,Address,ASSESSMENT,Boards Type,CLUB,COURT_TYPE,Facility,FACILITY_TYPE
 ,2185 Arch St.,,Permanent,,,Community Centre,,Yes,,Jim Tubman Chevrolet Rink,"2185 Arch Street, Ottawa",Canterbury Park,,Canterbury Park,Double Surface,Rinks,,Rinks,Yes,-75.62937499,45.38991682
 ,1332 Avenue N,,None,,,Fieldhouse,,Yes,,Outdoor Rink,"1332 Avenue N, Ottawa",Cecil Morrison Park,,Cecil Morrison Park,Puddle,Rinks,,Rinks,Yes,-75.64535211,45.41736038
 ,53 Avonlea Rd.,,Seasonal,,,Trailer,,Yes,,Outdoor Rink,"53 Avonlea Road, Nepean",Grenfell Glen Park,,Grenfell Glen Park,Rink with Puddle,Rinks,,Rinks,No,-75.73117078,45.31585308
-,1705 Orl¨¦ans Blvd.,,Permanent,,,None,,Yes,,Outdoor Rink,"1705 Orl¨¦ans Boulevard, Gloucester",Barrington Park,,Barrington Park,Rink with Puddle,Rinks,,Rinks,No,-75.5223289,45.45748806
+,1705 Orl¨¦ans Blvd.,,Permanent,,,None,,Yes,,Outdoor Rink,"1705 Orleans Boulevard, Gloucester",Barrington Park,,Barrington Park,Rink with Puddle,Rinks,,Rinks,No,-75.5223289,45.45748806
 ,134 Begonia Ave.,,None,,,None,,No,,Outdoor Rink,"134 Begonia Avenue, Ottawa",Applewood Park,,Applewood Park,Puddle,Rinks,,Rinks,No,-75.66906849,45.38791989
 ,25 Bie St.,,None,,,None,,Yes,,Outdoor Rink,"25 Bie Street, Nepean",Merivale Gardens Park,,Merivale Gardens Park,Puddle,Rinks,,Rinks,No,-75.74014419,45.32186286
 ,114 Centrepointe Dr.,,Seasonal,,,Trailer,,Yes,,Outdoor Rink,"260 Centrepointe Drive, Nepean",Centrepointe Park,,Centrepointe Park,Rink,Rinks,,Rinks,No,-75.77096577,45.33978709
@@ -291,7 +291,7 @@ Yes,590 Rouncey Road,,,,,,Flat,No,,Rouncey Skateborad Park,590 Rouncey Road,Roun
 No,8720 Russell Road,,,,,Community Centre,Flat,No,,Bearbrook Skateboard Park,"8720 Russell Road, Cumberland",Leslie Armstrong Park and Bearbrook Community Hall,,,,Skateboard,,Skateboard Parks,,-75.33729877,45.38332154
 No,1500 Shea Road,,,,,Community Centre,Flat,No,,Goulbourn Skateboard Park,"1500 Shea Road, Goulbourn",CARDELREC Recreation Complex (Goulbourn),,,,Skateboard,,Skateboard Parks,,-75.9071087,45.26222861
 No,3142 Conroy Road,,,,,Community Centre,Flat,No,,Greenboro Skateboard Park,"3142 Conroy Road, Ottawa",Greenboro Skateboard Park,,,,Skateboard,,Skateboard Parks,,-75.62599613,45.37540159
-No,1490 Youville Drive,,,,,Community Centre,Other,No,,Bob MacQuarrie Skateboard Park (SK8 Extreme Park),"1490 Youville Drive, Gloucester",Bob MacQuarrie Recreation Complex - Orl¨¦ans,,,,Skateboard,,Skateboard Parks,,-75.54651809,45.46713458
+No,1490 Youville Drive,,,,,Community Centre,Other,No,,Bob MacQuarrie Skateboard Park (SK8 Extreme Park),"1490 Youville Drive, Gloucester",Bob MacQuarrie Recreation Complex - Orleans,,,,Skateboard,,Skateboard Parks,,-75.54651809,45.46713458
 No,411 Dovercourt Avenue,,,,,Arena,Other,No,,Dovercourt Recreation Centre Skateboard Park,"411 Dovercourt Avenue, Ottawa",Westboro Kiwanis Park,,,,Skateboard,,Skateboard Parks,,-75.75293125,45.38359282
 Yes,450 Queen Elizabeth Driveway,,,,,Arena,Flat,No,,Lansdowne Skateboard Park,"450 Queen Elizabeth Driveway, Ottawa",Lansdowne Park,,,,Skateboard,,Skateboard Parks,,-75.6811935,45.40037262
 Yes,2810 Findlay Creek Drive,,,,,Community Centre,Flat,No,,Diamond Jubilee Skateboard Park,"2810 Findlay Creek Drive / 4008 Kelly Farm Drive, Gloucester",Diamond Jubilee Park,,,,Skateboard,,Skateboard Parks,,-75.60951631,45.31408672
@@ -315,7 +315,7 @@ No,"1995 Naskapi Drive, Gloucester",Approved site - Conditional,,,,,,No,,Sleddin
 No,"1816 St-Laurent Boulevard, Ottawa",Approved site - Conditional,,,,,,No,,Sledding Hill,"1816 St-Laurent Boulevard, Ottawa",Alda Burt Park,,,,Sledding,,Sledding Hills,,-75.62571196,45.40223178
 No,"75 Bridlewood Drive, Kanata",Approved site,,,,,,No,,Sledding Hill,"75 Bridlewood Drive, Kanata",J.J. Clarke Park,,,,Sledding,,Sledding Hills,,-75.86196182,45.29255404
 No,"135 Craig Henry Drive, Nepean",Approved site,,,,,,No,,Sledding Hill,"135 Craig Henry Drive, Nepean",Craig Henry Park,,,,Sledding,,Sledding Hills,,-75.7724113,45.33477794
-No,"1797 ¨¦pinettes Avenue, Gloucester",Approved site,,,,,,No,,Sledding Hill,"1797 Des Epinettes Avenue, Gloucester",Barnabe Park,,,,Sledding,,Sledding Hills,,-75.50728392,45.4595752
+No,"1797 epinettes Avenue, Gloucester",Approved site,,,,,,No,,Sledding Hill,"1797 Des Epinettes Avenue, Gloucester",Barnabe Park,,,,Sledding,,Sledding Hills,,-75.50728392,45.4595752
 No,551 Princess Louise Drive,Approved site,,,,,,No,,Sledding Hill,551 Princess Louise Drive,St. Joseph Boulevard Woods,,,,Sledding,,Sledding Hills,,-75.49664094,45.4835491
 No,"5572 Doctor Leach Drive, Rideau",Approved site,,,,,,No,,Sledding Hill,"5572 Doctor Leach Drive, Rideau",Centennial Park,,,,Sledding,,Sledding Hills,,-75.6883834,45.22229867
 No,"1046 St. Joseph Boulevard, Gloucester",Approved site,,,,,,No,,Sledding Hill,"1046 St Joseph Boulevard, Gloucester",Greens Creek Sliding Hill,,,,Sledding,,Sledding Hills,,-75.57783321,45.45128278
@@ -352,7 +352,7 @@ No,"2300 Community Way, Rideau",Approved site - Conditional,,,,,,No,,Sledding Hi
 No,"956 Loyola Avenue, Gloucester",Approved site,,,,,,No,,Sledding Hill,"956 Loyola Avenue, Gloucester",Loyola Park,,,,Sledding,,Sledding Hills,,-75.59220929,45.45070773
 No,"99 Cobourg Street, Ottawa",Approved site - Conditional,,,,,,No,,Sledding Hill,"99 Cobourg Street, Ottawa",MacDonald Gardens Park,,,,Sledding,,Sledding Hills,,-75.67785909,45.4335748
 No,"109 Larch Crescent, Cumberland",Approved site,,,,,,No,,Sledding Hill,"109 Larch Crescent, Cumberland",Roy G. Hobbs Community Centre and Park,,,,Sledding,,Sledding Hills,,-75.5212579,45.48766085
-No,"1899 Du Clairvaux Road, Gloucester",Approved site,,,,,,No,,Sledding Hill,"1899 Du Clairvaux Road, Gloucester",G¨¦rald Poulin Park,,,,Sledding,,Sledding Hills,,-75.5380505,45.44386776
+No,"1899 Du Clairvaux Road, Gloucester",Approved site,,,,,,No,,Sledding Hill,"1899 Du Clairvaux Road, Gloucester",Gerald Poulin Park,,,,Sledding,,Sledding Hills,,-75.5380505,45.44386776
 No,"6210 Meadowglen Drive, Gloucester",Approved site - Conditional,,,,,,No,,Sledding Hill,"6210 Meadowglen Drive, Gloucester",Roy Park,,,,Sledding,,Sledding Hills,,-75.53087115,45.44994625
 No,"1115 Dunning Road, Cumberland",Approved site,,,,,,No,,Sledding Hill,"1115 Dunning Road, Cumberland",Wilfred Murray Park / R.J. Kennedy Community Hall and Arena,,,,Sledding,,Sledding Hills,,-75.40310682,45.51514971
 No,"100 Charlie Rogers Place, Kanata",Approved site,,,,,,No,,Sledding Hill,"100 Charlie Rogers Place, Kanata",Walter Baker Park,,,,Sledding,,Sledding Hills,,-75.90213928,45.29656498
@@ -371,7 +371,7 @@ No,"5495 South River Drive, Rideau",,,,,,,No,Outdoor Pools,Long Island Aquatic C
 No,"70 Castlefrank Road, Kanata",,,,,,,No,Outdoor Pools,Glen Cairn Outdoor Pool,"70 Castlefrank Road, Kanata",Beaton Park,Full,,,Swimming,,Swimming Pools,,-75.88478456,45.29543521
 No,"61 Corkstown Road, Nepean",,,,,,,No,Outdoor Pools,Corkstown Outdoor Pool,"61 Corkstown Road, Nepean",Corkstown Park,Full,,,Swimming,,Swimming Pools,,-75.82713392,45.34617801
 No,"107 Chesterton Drive, Nepean",,,,,,,No,Outdoor Pools,General Burns Outdoor Pool,"107 Chesterton Drive, Nepean",General Burns Park,Full,,,Swimming,,Swimming Pools,,-75.72016743,45.35157911
-No,"43 Ste. C¨¦cile Street, Vanier",,,,,,,No,Outdoor Pools,Genest Outdoor Pool,"43 Ste. C¨¦cile Street, Vanier",Optimiste Park,Full,,,Swimming,,Swimming Pools,,-75.66926766,45.44217877
+No,"43 Ste. C¨¦cile Street, Vanier",,,,,,,No,Outdoor Pools,Genest Outdoor Pool,"43 Ste. Cecile Street, Vanier",Optimiste Park,Full,,,Swimming,,Swimming Pools,,-75.66926766,45.44217877
 No,"1002 Beaverbrook Road, Kanata",,,,,,,No,Outdoor Pools,Beaverbrook Outdoor Pool,"1002 Beaverbrook Road, Kanata",Beaverbrook Pool Park,Full,,,Swimming,,Swimming Pools,,-75.90128763,45.32883415
 No,"38 Chimo Drive, Kanata",,,,,,,No,Outdoor Pools,Katimavik Outdoor Pool,"38 Chimo Drive, Kanata",Cattail Creek Park,Full,,,Swimming,,Swimming Pools,,-75.8893253,45.31027909
 No,"5495 South River Drive, Rideau",,,,,,,No,Outdoor Pools,Long Island Aquatic Club,"5495 South River Drive, Rideau",Long Island Aquatic Club,Full,,,Swimming,,Swimming Pools,,-75.67936923,45.23089726
@@ -394,12 +394,12 @@ No,"2300 Community Way, Rideau",,,Public Tennis Courts,Public Courts,,,Yes,,,"23
 No,"1556 Forest Valley Drive, Gloucester",,,Public Tennis Courts,Public Courts,,,No,,,"1556 Forest Valley Drive, Gloucester",Chapel Hill Park,,,,Tennis,Green,Tennis Court,,-75.53799384,45.45085127
 No,"110 Mancini Way, Nepean",,,Public Tennis Courts,Public Courts,,,No,,,110 Mancini Way,Mancini Park,,,,Tennis,Blue,Tennis Court,,-75.73328039,45.27085723
 No,"1735 St. Bernard Street, Gloucester",,,Gabriela Dabrowski Tennis Courts,Public Courts,,,No,,,"1735 St. Bernard Street, Gloucester",Russell Boyd Park,,,,Tennis,Green,Tennis Court,,-75.62568224,45.35218419
-No,"1257 Joseph Drouin Avenue, Gloucester",,,Orl¨¦ans Tennis Club,Membership Clubs,,,Yes,,,"1257 Joseph Drouin Avenue, Gloucester",Pierre Rocque Park,,,,Tennis,Blue,Tennis Court,,-75.52593922,45.4745332
+No,"1257 Joseph Drouin Avenue, Gloucester",,,Orleans Tennis Club,Membership Clubs,,,Yes,,,"1257 Joseph Drouin Avenue, Gloucester",Pierre Rocque Park,,,,Tennis,Blue,Tennis Court,,-75.52593922,45.4745332
 Yes,"290 Meadowbreeze Drive, Kanata",,,Public Tennis Courts,Public Courts,,,Yes,,,290 Meadowbreeze Drive,Crownridge Park,,,,Tennis,Blue,Tennis Court,,-75.84648138,45.27361187
 No,"2805 Carling Avenue, Ottawa",,,Tennis Centre West Ottawa,Membership Clubs,,,Yes,,,"2805 Carling Avenue, Ottawa",Britannia Park,,,,Tennis,Clay,Tennis Court,,-75.79867661,45.36266439
 No,"2777 Cassels Street, Ottawa",,,Britannia Yacht Club (Tennis),Private Clubs,,,Yes,,,,,,,,Tennis,Blue,Tennis Court,,-75.80246881,45.37196424
 No,"61 Corkstown Road, Nepean",,,Crystal Beach Tennis Club,Membership Clubs,,,Yes,,,"61 Corkstown Road, Nepean",Corkstown Park,,,,Tennis,Blue,Tennis Court,,-75.82784903,45.34566682
-No,"504 Sir George-¨¦tienne Cartier Parkway, Rockcliffe Park",,,Ottawa New Edinburgh Club,Private Clubs,,,Yes,,,,,,,,Tennis,Green,Tennis Court,,-75.6770325,45.45581905
+No,"504 Sir George-Etienne Cartier Parkway, Rockcliffe Park",,,Ottawa New Edinburgh Club,Private Clubs,,,Yes,,,,,,,,Tennis,Green,Tennis Court,,-75.6770325,45.45581905
 No,"176 Cameron Avenue, Ottawa",,,Ottawa Tennis and Lawn Bowling Club,Private Clubs,,,Yes,,,,,,,,Tennis,Clay,Tennis Court,,-75.68609846,45.38856042
 No,"2500 Campeau Drive, Kanata",,,March Tennis Club,Membership Clubs,,,Yes,,,"2500 Campeau Drive, Kanata",Beaverbrook Park,,,,Tennis,Green,Tennis Court,,-75.89628335,45.32043033
 No,"815 St. Laurent Boulevard, Ottawa",,,Tennis Courts - Rideau High School,School Board Sites,,,No,,,,,,,,Tennis,Black,Tennis Court,,-75.64117511,45.43554589
@@ -436,7 +436,7 @@ No,"3525 Cambrian Road, Nepean",,,Public Tennis Courts,Public Courts,,,Yes,,,"35
 Yes,"7292 Parkway Road, Osgoode",,,Public Tennis Courts,Public Courts,,,Yes,,,7292 Parkway Road,Greely Village Park,,,,Tennis,Blue,Tennis Court,,-75.55075876,45.26645869
 No,"1145 Greenlawn Crescent, Ottawa",,,Public Tennis Courts,Public Courts,,,No,,,"1145 Greenlawn Crescent, Ottawa",Greenlawn Park,,,,Tennis,Black,Tennis Court,,-75.7456393,45.36724068
 No,"400 Goldridge Drive, Kanata",,,Public Tennis Courts,Public Courts,,,Yes,,,"400 Goldridge Drive, Kanata",Jim Malone Park,,,,Tennis,Green,Tennis Court,,-75.92023704,45.31816219
-Yes,"710 Mikinak Road, Ottawa",,,Public Tennis Courts,Public Courts,,,Yes,,,710 Mikinak Road,Eug¨¨ne Martineau Park,,,,Tennis,Blue,Tennis Court,,-75.63064001,45.45069391
+Yes,"710 Mikinak Road, Ottawa",,,Public Tennis Courts,Public Courts,,,Yes,,,710 Mikinak Road,Eugene Martineau Park,,,,Tennis,Blue,Tennis Court,,-75.63064001,45.45069391
 No,"3302 Huntley Road, Goulbourn",,,Public Tennis Courts,Public Courts,,,Yes,,,"3302 Huntley Road, Goulbourn",Richmond Lions Community Park,,,,Tennis,Black,Tennis Court,,-75.8429056,45.19677288
 No,"1279 Colonial Road, Cumberland",,,Public Tennis Courts,Public Courts,,,No,,,3591 Wickham Court,Navan Centennial Park,,,,Tennis,Green,Tennis Court,,-75.42461244,45.4196281
 No,"3580 Trapper's Road, Gloucester",,,Public Tennis Courts,Public Courts,,,No,,,"3580 Trapper's Road, Gloucester",Trappers Park,,,,Tennis,Black,Tennis Court,,-75.64490411,45.34692688
@@ -464,7 +464,7 @@ No,"193 Stanley Avenue, Ottawa",,,Public Tennis Courts,Public Courts,,,No,,,"193
 No,"7 Sycamore Drive, Nepean",,,Lynwood Tennis Club,Membership Clubs,,,Yes,,,"7 Sycamore Drive, Nepean",Lynwood Park,,,,Tennis,Green,Tennis Court,,-75.82136836,45.31970207
 No,"10 Warner Colpitts Lane, Goulbourn",,,Public Tennis Courts,Public Courts,,,Yes,,,"10 Warner Colpitts Lane, Goulbourn",Alexander Grove Park,,,,Tennis,Blue,Tennis Court,,-75.9249319,45.26016823
 No,"998 Valin Street, Cumberland",,,Public Tennis Courts,Public Courts,,,Yes,,,"998 Valin Street, Cumberland",Valin Park and South Fallingbrook Community Centre,,,,Tennis,Green,Tennis Court,,-75.46278921,45.47134211
-No,"3585 Sarsfield Road, Cumberland",,,Public Tennis Courts,Public Courts,,,Yes,,,"3585 Sarsfield Road, Cumberland",Yves Ch¨¦nier Park,,,,Tennis,Green,Tennis Court,,-75.34284239,45.44075505
+No,"3585 Sarsfield Road, Cumberland",,,Public Tennis Courts,Public Courts,,,Yes,,,"3585 Sarsfield Road, Cumberland",Yves Chenier Park,,,,Tennis,Green,Tennis Court,,-75.34284239,45.44075505
 No,"300 Den Haag Drive, Ottawa",,,Public Tennis Courts,Public Courts,,,Yes,,,"300 Den Haag Drive, Ottawa",Dr. John Hopps Park,,,,Tennis,Green,Tennis Court,,-75.63223495,45.44057414
 No,"2185 Arch Street, Ottawa",,,Public Tennis Courts,Public Courts,,,No,,,"2185 Arch Street, Ottawa",Canterbury Park,,,,Tennis,Green,Tennis Court,,-75.62950389,45.38955402
 No,"1423 Matheson Road, Gloucester",,,Public Tennis Courts,Public Courts,,,Yes,,,"1423 Matheson Road, Gloucester",Carson Grove Park,,,,Tennis,Green,Tennis Court,,-75.62158078,45.4373165
@@ -477,7 +477,7 @@ No,"5650 Scobie Crescent, Osgoode",,,Public Tennis Courts,Public Courts,,,No,,,"
 No,"58 Fieldrow Street, Nepean",,,City View Tennis Club,Membership Clubs,,,Yes,,,"58 Fieldrow Street, Nepean",Bob Mitchell Park,,,,Tennis,Blue,Tennis Court,,-75.73828716,45.34460447
 No,"465 Lawsdowne Road North, Rockcliffe Park",,,Rockcliffe Lawn Tennis Club,Private Clubs,,,No,,,,,,,,Tennis,Blue,Tennis Court,,-75.6728485,45.45240503
 No,"1099 Grenon Avenue, Ottawa",,,Public Tennis Courts,Public Courts,,,No,,,"1099 Grenon Avenue, Ottawa",Ruth Wildgen Park,,,,Tennis,Black,Tennis Court,,-75.79585518,45.35053133
-No,"1855 Simard Drive, Gloucester",,,Public Tennis Courts,Public Courts,,,No,,,"1855 Simard Drive, Gloucester",St. Fran?ois Park,,,,Tennis,Green,Tennis Court,,-75.51863874,45.45242665
+No,"1855 Simard Drive, Gloucester",,,Public Tennis Courts,Public Courts,,,No,,,"1855 Simard Drive, Gloucester",St. Franois Park,,,,Tennis,Green,Tennis Court,,-75.51863874,45.45242665
 No,"1410 Henri Lauzon Street, Gloucester",,,Public Tennis Courts,Public Courts,,,Yes,,,"1410 Henri Lauzon Street, Gloucester",Racette Park,,,,Tennis,Green,Tennis Court,,-75.53651311,45.46241415
 No,"837 Grenon Avenue, Ottawa",,,Public Tennis Courts,Public Courts,,,No,,,"837 Grenon Avenue, Ottawa",Judge Park,,,,Tennis,Black,Tennis Court,,-75.79833132,45.35613172
 No,"1900 Dauphin Road, Ottawa",,,Tennis Courts - Hillcrest High School,School Board Sites,,,Yes,,,,,,,,Tennis,Blue,Tennis Court,,-75.64166818,45.39950301
